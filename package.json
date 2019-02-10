@@ -3,11 +3,14 @@
     "description": "A Node-RED Project",
     "version": "0.0.1",
     "dependencies": {
+        "noble": "^1.9.1",
+        "node-red-contrib-bt-presence": "1.1.4",
+        "node-red-contrib-ignoble": "0.0.12",
         "node-red-contrib-mqtt-broker": "0.2.4",
-        "node-red-dashboard": "2.13.2",
-        "node-red-node-openweathermap": "0.2.1",
         "node-red-contrib-openzwave": "1.2.4",
-        "node-red-node-darksky": "0.1.18"
+        "node-red-dashboard": "2.13.2",
+        "node-red-node-darksky": "0.1.18",
+        "node-red-node-openweathermap": "0.2.1"
     },
     "node-red": {
         "settings": {

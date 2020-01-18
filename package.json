@@ -5,7 +5,7 @@
     "dependencies": {
         "node-red-contrib-ignoble": "0.0.12",
         "node-red-contrib-openzwave": "^1.2.5",
-        "node-red-dashboard": "2.13.2",
+        "node-red-dashboard": "2.19.3",
         "node-red-node-darksky": "0.1.18",
         "node-red-node-openweathermap": "0.2.1"
     },
